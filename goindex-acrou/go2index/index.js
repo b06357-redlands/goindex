@@ -66,8 +66,8 @@ var authConfig = {
 
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/b06357-redlands/goindex",
-  // 主题版本号 b06357-redlands/goindex@2.0.8-darkmode
-  version: "2.0.8-darkmode",
+  // 主题版本号 b06357-redlands/goindex@2.0.8-darkmode-1------------
+  version: "2.0.8-darkmode-1",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
